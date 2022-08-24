@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Rahulkhot10
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on full stack projects.
 - 📫 How to reach me rahuleng2022@gmail.com
 
 <!---
